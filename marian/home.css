@@ -1,0 +1,31 @@
+h1{
+    text-align:center;
+    font-style:initial;
+    background-color: antiquewhite;
+    border: 50px;
+    padding: 50px;
+    border-radius: 30px;
+
+}
+.navbar{
+    background-color: antiquewhite;
+    font-size: 20px;
+    
+}
+img{
+   
+    margin: 50px 50px;
+  
+    align-content: center;
+    width:70%;
+    height: 50%;
+}
+.para{
+    
+    color: black;
+    font-style: italic;
+    background-color:antiquewhite;
+    border: 2px;
+    border-style: dotted;
+    border-radius: 12px;
+}
